@@ -6,6 +6,11 @@ spring:
     password: ${DB_PASSWORD:}
 
     jpa:
+      hibernate:
+        ddl-auto: none # create
       properties:
         hibernate:
           dialect: org.hibernate.dialect.MariaDBDialect
+
+  liquibase:
+    change-log: classpath:/db/changelog/db.changelog.xml
