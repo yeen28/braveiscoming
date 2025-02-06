@@ -1,14 +1,14 @@
 <script lang="ts">
-	import Index from './Index.svelte';
+	import Main from '../components/Main.svelte';
 </script>
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="This page is Home" />
 </svelte:head>
 
 <section>
-	<Index />
+	<Main />
 </section>
 
 <style>

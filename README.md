@@ -1,5 +1,6 @@
 # Brave Is Coming
 From egg to chicken, and then to brave.
+(A project that clones the page https://eggiscoming.com/index.html)
 
 ## Requirements
 - Java 17 or higher
