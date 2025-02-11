@@ -1,3 +1,5 @@
+[![Github CI](https://github.com/yeen28/braveiscoming/actions/workflows/github-ci.yml/badge.svg?branch=master)](https://github.com/yeen28/braveiscoming/actions/workflows/github-ci.yml)
+
 # Brave Is Coming
 From egg to chicken, and then to brave.
 (A project that clones the page https://eggiscoming.com/index.html)
@@ -69,6 +71,7 @@ To contribute to this project, please follow these steps:
 3. Create a Pull Request when you're ready to merge your changes.
 
 ## License
+```
 MIT License
 
 Copyright (c) 2025 yeeun
@@ -90,3 +93,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
